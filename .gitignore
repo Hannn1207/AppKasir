@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment files (JANGAN upload ke GitHub - berisi password!)
+backend/.env
+frontend/.env
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
